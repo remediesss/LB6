@@ -292,7 +292,7 @@ void start()
 
         else
         {
-            std::cout << "Wrong opetrarino\n";
+            std::cout << "Wrong operation\n";
         }
 
         std::cout << "\n\n";
